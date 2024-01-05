@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 4, nombre: 'Nugaton x50gr', precio: 525, stock: 770 },
         { id: 5, nombre: 'Pionono', precio: 860, stock: 150 },
     ];
-    
+
     //  mostrar productos 
     function mostrarProductos() {
             productos.forEach(producto => {
